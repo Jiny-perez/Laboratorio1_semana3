@@ -4,15 +4,8 @@
  */
 package laboratorio1_semana3;
 
-/**
- *
- * @author marye
- */
-public class Laboratorio1_semana3 {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Laboratorio1_semana3 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
