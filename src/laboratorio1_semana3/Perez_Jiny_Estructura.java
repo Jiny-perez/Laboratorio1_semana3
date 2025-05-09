@@ -156,14 +156,15 @@ public class Perez_Jiny_Estructura {
                     System.out.println("VOTACIÓN FALLIDA");
                 }
                 break;
-            }
-                
-                
-                
+            case 5:
+                System.out.println("Saliendo del programa....");
+                break; 
+            default:
+            System.out.println("opcion no valida");
              }
          }
      }             
-
+}
 
                     
                   
